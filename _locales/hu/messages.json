@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": "A letöltések API-ja csakis fejlesztői, illetve béta csatornákon érhető el. Itt frissítse Chrome-ját."
    },
    "contextMenuOpen": {
       "description": "",
@@ -17,7 +17,7 @@
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Letöltési link másolása"
+      "message": "Letöltési link lemásolása"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
@@ -93,7 +93,7 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Show links to extensions that download files."
+      "message": "Linkek megjelenítése fájlokat letöltő bővítmények számára."
    },
    "loadingOlderDownloads": {
       "description": "",
@@ -101,7 +101,7 @@
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Some files were downloaded by an extension."
+      "message": "Egyes fájlok egy bővítmény által lettek letöltve."
    },
    "month0abbr": {
       "description": "",
@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h",
+      "message": "Megnyitás $days$d nap és $hours$h óra múlva",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -187,11 +187,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Opening in just a moment"
+      "message": "Megnyitás csak egy pillanat múlva"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Opening in $hours$h $mins$m",
+      "message": "Megnyitás $hours$h óra és $mins$m perc múlva",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Opening in $mins$m $sec$s",
+      "message": "Megnyitás $mins$m perc és $sec$s másodperc múlva",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  Opening in $sec$s",
+      "message": "  Megnyitás $sec$s másodperc múlva",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -233,7 +233,7 @@
    },
    "referrerTitle": {
       "description": "",
-      "message": "Referrer"
+      "message": "Azonosító"
    },
    "removeFileTitle": {
       "description": "",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "$sec$s maradt",
       "placeholders": {
          "sec": {
             "content": "$1",
